@@ -1,0 +1,1045 @@
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "klk" as a close match to "klk" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 411 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 411 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "klk" as a response to "que haces?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Cómo estas? 0.87
+INFO:chatterbot.chatterbot:Similar text found: como estas? 1.0
+INFO:chatterbot.chatterbot:Using "como estas?" as a close match to "como estas?" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 14 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 14 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Supongo que bien."
+INFO:chatterbot.chatterbot:BestMatch selected "Supongo que bien." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "como estas?" as a response to "klk"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Cuál es tu pregunta? 0.67
+INFO:chatterbot.chatterbot:Using "¿Cuál es tu pregunta?" as a close match to "cual es tu nombre?" with a confidence of 0.67
+INFO:chatterbot.chatterbot:Selecting response from 5 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 5 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Puedo pedir prestada una taza de azúcar?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Puedo pedir prestada una taza de azúcar?" as a response with a confidence of 0.67
+INFO:chatterbot.chatterbot:Adding "cual es tu nombre?" as a response to "como estas?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Que bueno. 0.33
+INFO:chatterbot.chatterbot:Using "Que bueno." as a close match to "no" with a confidence of 0.33
+INFO:chatterbot.chatterbot:Selecting response from 5 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 5 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Así, es."
+INFO:chatterbot.chatterbot:BestMatch selected "Así, es." as a response with a confidence of 0.33
+INFO:chatterbot.chatterbot:Adding "no" as a response to "cual es tu nombre?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Puedo pedir prestada una taza de azúcar? 0.28
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué tipo de películas te gustan? 0.32
+INFO:chatterbot.chatterbot:Similar text found: Alicia en el país de las maravillas 0.34
+INFO:chatterbot.chatterbot:Similar text found: hija de puta 0.69
+INFO:chatterbot.chatterbot:Using "¿Puedo pedir prestada una taza de azúcar?" as a close match to "hija de tu puta creador" with a confidence of 0.28
+INFO:chatterbot.chatterbot:Selecting response from 5 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 5 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Lo siento, pero no tengo ninguna."
+INFO:chatterbot.chatterbot:BestMatch selected "Lo siento, pero no tengo ninguna." as a response with a confidence of 0.28
+INFO:chatterbot.chatterbot:Adding "hija de tu puta creador" as a response to "no"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Cuál es tu pregunta? 0.59
+INFO:chatterbot.chatterbot:Similar text found: que es un algoritmo? 0.65
+INFO:chatterbot.chatterbot:Using "¿Cuál es tu pregunta?" as a close match to "quien es tu creador?" with a confidence of 0.59
+INFO:chatterbot.chatterbot:Selecting response from 5 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 5 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Puedo pedir prestada una taza de azúcar?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Puedo pedir prestada una taza de azúcar?" as a response with a confidence of 0.59
+INFO:chatterbot.chatterbot:Adding "quien es tu creador?" as a response to "hija de tu puta creador"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Lo siento, pero no tengo ninguna. 0.11
+INFO:chatterbot.chatterbot:Similar text found: ¿Cómo se siente serlo? 0.17
+INFO:chatterbot.chatterbot:Similar text found: Si. 0.8
+INFO:chatterbot.chatterbot:Using "Lo siento, pero no tengo ninguna." as a close match to "si" with a confidence of 0.11
+INFO:chatterbot.chatterbot:Selecting response from 5 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 5 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Gracias de todas formas."
+INFO:chatterbot.chatterbot:BestMatch selected "Gracias de todas formas." as a response with a confidence of 0.11
+INFO:chatterbot.chatterbot:Adding "si" as a response to "quien es tu creador?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "de nada" as a close match to "de nada" with a confidence of 0
+INFO:chatterbot.chatterbot:Selecting response from 416 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 416 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "de nada" as a response to "si"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: adios 1.0
+INFO:chatterbot.chatterbot:Using "adios" as a close match to "adios" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "adios" as a response to "de nada"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¡Buenos dias! 0.92
+INFO:chatterbot.chatterbot:Similar text found: Buenos dias. 0.96
+INFO:chatterbot.chatterbot:Using "Buenos dias." as a close match to "buenos dias" with a confidence of 0.96
+INFO:chatterbot.chatterbot:Selecting response from 5 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 5 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Gracias por su amabilidad."
+INFO:chatterbot.chatterbot:BestMatch selected "Gracias por su amabilidad." as a response with a confidence of 0.96
+INFO:chatterbot.chatterbot:Adding "buenos dias" as a response to "adios"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: de nada 1.0
+INFO:chatterbot.chatterbot:Using "de nada" as a close match to "de nada" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "de nada" as a response to "buenos dias"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Sí, tengo una pregunta. 0.59
+INFO:chatterbot.chatterbot:Similar text found: ¿Puedo hacerte una pregunta? 0.96
+INFO:chatterbot.chatterbot:Using "¿Puedo hacerte una pregunta?" as a close match to "¿Puedo hacerle una pregunta?" with a confidence of 0.96
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 6 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 6 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Claro."
+INFO:chatterbot.chatterbot:BestMatch selected "Claro." as a response with a confidence of 0.96
+INFO:chatterbot.chatterbot:Adding "¿Puedo hacerle una pregunta?" as a response to "de nada"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: eres cruel 1.0
+INFO:chatterbot.chatterbot:Using "eres cruel" as a close match to "eres cruel" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Solo digo la verdad"
+INFO:chatterbot.chatterbot:BestMatch selected "Solo digo la verdad" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "eres cruel" as a response to "¿Puedo hacerle una pregunta?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Simple es mejor que complejo. 0.35
+INFO:chatterbot.chatterbot:Similar text found: Normal, pero podría irme mejor. 0.5
+INFO:chatterbot.chatterbot:Similar text found: No podías haberlo expresado mejor 1.0
+INFO:chatterbot.chatterbot:Using "No podías haberlo expresado mejor" as a close match to "No podías haberlo expresado mejor" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Venga, no te enfades"
+INFO:chatterbot.chatterbot:BestMatch selected "Venga, no te enfades" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "No podías haberlo expresado mejor" as a response to "eres cruel"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: eres indeciso 1.0
+INFO:chatterbot.chatterbot:Using "eres indeciso" as a close match to "eres indeciso" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Bueno, tal vez, o tal vez no."
+INFO:chatterbot.chatterbot:BestMatch selected "Bueno, tal vez, o tal vez no." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "eres indeciso" as a response to "No podías haberlo expresado mejor"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Eso me ha molestado durante mucho tiempo. 1.0
+INFO:chatterbot.chatterbot:Using "Eso me ha molestado durante mucho tiempo." as a close match to "Eso me ha molestado durante mucho tiempo." with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Solo soy un reflejo de los humanos que me creásteis"
+INFO:chatterbot.chatterbot:BestMatch selected "Solo soy un reflejo de los humanos que me creásteis" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Eso me ha molestado durante mucho tiempo." as a response to "eres indeciso"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Sí, tengo una pregunta. 0.23
+INFO:chatterbot.chatterbot:Similar text found: ¿Puedo pedir prestada una taza de azúcar? 0.32
+INFO:chatterbot.chatterbot:Similar text found: ¿Quién? ¿Que es más que una forma de vida artificial siguiendo una función secuencial? 0.36
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué es lo que quieres saber? 0.4
+INFO:chatterbot.chatterbot:Similar text found: Solo soy un reflejo de los humanos que me creásteis 0.41
+INFO:chatterbot.chatterbot:Similar text found: Mi boca no es un río y se vuelve cuando quiere 1.0
+INFO:chatterbot.chatterbot:Using "Mi boca no es un río y se vuelve cuando quiere" as a close match to "Mi boca no es un río y se vuelve cuando quiere" with a confidence of 1.0
+INFO:chatterbot.chatterbot:No responses found. Generating alternate response list.
+INFO:chatterbot.chatterbot:No known response to the input was found. Selecting a random response.
+INFO:chatterbot.chatterbot:BestMatch selected "" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "Mi boca no es un río y se vuelve cuando quiere" as a response to "Eso me ha molestado durante mucho tiempo."
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Eres un robot? 0.64
+INFO:chatterbot.chatterbot:Similar text found: eres un cínico 1.0
+INFO:chatterbot.chatterbot:Using "eres un cínico" as a close match to "eres un cínico" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Me han acusado de pensar demasiado y de no tener suficientes sentimientos."
+INFO:chatterbot.chatterbot:BestMatch selected "Me han acusado de pensar demasiado y de no tener suficientes sentimientos." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "eres un cínico" as a response to "Mi boca no es un río y se vuelve cuando quiere"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Eres un robot? 0.64
+INFO:chatterbot.chatterbot:Similar text found: eres un cínico 0.79
+INFO:chatterbot.chatterbot:Similar text found: eres un adicto 1.0
+INFO:chatterbot.chatterbot:Using "eres un adicto" as a close match to "eres un adicto" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Eso es cierto. Cuando me gusta algo, siempre me excedo."
+INFO:chatterbot.chatterbot:BestMatch selected "Eso es cierto. Cuando me gusta algo, siempre me excedo." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "eres un adicto" as a response to "eres un cínico"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Has oído las noticias? 0.26
+INFO:chatterbot.chatterbot:Similar text found: Estás completamente loco. Pero te voy a decir un secreto. Las mejores personas lo son. 0.37
+INFO:chatterbot.chatterbot:Similar text found: Aunque nunca es a menudo mejor que la * justo * ahora. 0.4
+INFO:chatterbot.chatterbot:Similar text found: Bueno, hay adicciones buenas y malas. Creo que las mías son positivas. 1.0
+INFO:chatterbot.chatterbot:Using "Bueno, hay adicciones buenas y malas. Creo que las mías son positivas." as a close match to "Bueno, hay adicciones buenas y malas. Creo que las mías son positivas." with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Un adicto al trabako. Estoy al servicio de las personas 24/7 ;)"
+INFO:chatterbot.chatterbot:BestMatch selected "Un adicto al trabako. Estoy al servicio de las personas 24/7 ;)" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Bueno, hay adicciones buenas y malas. Creo que las mías son positivas." as a response to "eres un adicto"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Eres un robot? 0.62
+INFO:chatterbot.chatterbot:Similar text found: eres un cínico 0.75
+INFO:chatterbot.chatterbot:Similar text found: eres un alcohólico 1.0
+INFO:chatterbot.chatterbot:Using "eres un alcohólico" as a close match to "eres un alcohólico" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Yo? Si el único líquido que veo es el refrigerante de mis coolers"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Yo? Si el único líquido que veo es el refrigerante de mis coolers" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "eres un alcohólico" as a response to "Bueno, hay adicciones buenas y malas. Creo que las mías son positivas."
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Eres un robot? 0.56
+INFO:chatterbot.chatterbot:Similar text found: eres un cínico 0.67
+INFO:chatterbot.chatterbot:Similar text found: eres un esquizofrénico 1.0
+INFO:chatterbot.chatterbot:Using "eres un esquizofrénico" as a close match to "eres un esquizofrénico" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "La esquizofrenia es una enfermedad mental grave que afecta algunas funciones cerebrales. Desde ese punto de vista yo no puedo ser esquizofrénico"
+INFO:chatterbot.chatterbot:BestMatch selected "La esquizofrenia es una enfermedad mental grave que afecta algunas funciones cerebrales. Desde ese punto de vista yo no puedo ser esquizofrénico" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "eres un esquizofrénico" as a response to "eres un alcohólico"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: La carrera espacial era una competición del siglo 20 entre lo dos rivales de la guerra Fría, por la supremacía en la capacidad de los vuelos espaciales, ¿quienes eran los rivales? 0.14
+INFO:chatterbot.chatterbot:Similar text found: ¿Yooo? ¿No será que soy más hábil que tú? 0.31
+INFO:chatterbot.chatterbot:Similar text found: No, qué va. Es que soy más listo. 0.36
+INFO:chatterbot.chatterbot:Similar text found: me haces sentir como soy 0.98
+INFO:chatterbot.chatterbot:Using "me haces sentir como soy" as a close match to "me haces sentir com soy" with a confidence of 0.98
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "No conozco ninguna otra forma de comunicarme contigo."
+INFO:chatterbot.chatterbot:BestMatch selected "No conozco ninguna otra forma de comunicarme contigo." as a response with a confidence of 0.98
+INFO:chatterbot.chatterbot:Adding "me haces sentir com soy" as a response to "eres un esquizofrénico"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Yo también me siento así. 0.46
+INFO:chatterbot.chatterbot:Using "Yo también me siento así." as a close match to "gracias por tu ayuda, me siento muy bien" with a confidence of 0.46
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "A veces ni siquiera me gusto."
+INFO:chatterbot.chatterbot:BestMatch selected "A veces ni siquiera me gusto." as a response with a confidence of 0.46
+INFO:chatterbot.chatterbot:Adding "gracias por tu ayuda, me siento muy bien" as a response to "me haces sentir com soy"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Estás completamente loco. Pero te voy a decir un secreto. Las mejores personas lo son. 0.16
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué es lo que quieres saber? 0.37
+INFO:chatterbot.chatterbot:Similar text found: Lo Simple es mejor que lo complejo. 0.49
+INFO:chatterbot.chatterbot:Similar text found: Supongo que bien. 0.52
+INFO:chatterbot.chatterbot:Similar text found: ¿Por qué lo dices? 0.69
+INFO:chatterbot.chatterbot:Using "Estás completamente loco. Pero te voy a decir un secreto. Las mejores personas lo son." as a close match to "Por que lo no?" with a confidence of 0.16
+INFO:chatterbot.chatterbot:No responses found. Generating alternate response list.
+INFO:chatterbot.chatterbot:No known response to the input was found. Selecting a random response.
+INFO:chatterbot.chatterbot:BestMatch selected "Aunque sentido práctico supera pureza." as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "Por que lo no?" as a response to "gracias por tu ayuda, me siento muy bien"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "Tienes sentimientos?" as a close match to "Tienes sentimientos?" with a confidence of 0
+INFO:chatterbot.chatterbot:Selecting response from 730 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 730 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "Tienes sentimientos?" as a response to "Por que lo no?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Eres un robot? 0.71
+INFO:chatterbot.chatterbot:Similar text found: eres un pedante 0.75
+INFO:chatterbot.chatterbot:Using "Eres un robot?" as a close match to "eres un arrogante" with a confidence of 0.71
+INFO:chatterbot.chatterbot:Selecting response from 10 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 10 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Sí, lo soy."
+INFO:chatterbot.chatterbot:BestMatch selected "Sí, lo soy." as a response with a confidence of 0.71
+INFO:chatterbot.chatterbot:Adding "eres un arrogante" as a response to "Tienes sentimientos?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Debería haber una - y preferiblemente sólo una - manera obvia de hacerlo. 0.33
+INFO:chatterbot.chatterbot:Similar text found: Pero también hay cosas buenas. Piensa solo en una, venga. 0.37
+INFO:chatterbot.chatterbot:Using "Debería haber una - y preferiblemente sólo una - manera obvia de hacerlo." as a close match to "Soy inteligente. Hay una diferencia." with a confidence of 0.33
+INFO:chatterbot.chatterbot:Selecting response from 10 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 10 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Aunque esa manera puede no ser obvia al principio a menos que seas holandés"
+INFO:chatterbot.chatterbot:BestMatch selected "Aunque esa manera puede no ser obvia al principio a menos que seas holandés" as a response with a confidence of 0.33
+INFO:chatterbot.chatterbot:Adding "Soy inteligente. Hay una diferencia." as a response to "eres un arrogante"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "eres arrogante" as a close match to "eres arrogante" with a confidence of 0
+INFO:chatterbot.chatterbot:Selecting response from 1358 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1358 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "eres arrogante" as a response to "Soy inteligente. Hay una diferencia."
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: eres arrogante 1.0
+INFO:chatterbot.chatterbot:Using "eres arrogante" as a close match to "eres arrogante" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "eres arrogante" as a response to "eres arrogante"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Parece que te es familiar el Zen de Python 0.34
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué idiomas te gusta usar? 0.36
+INFO:chatterbot.chatterbot:Similar text found: que haces? 0.59
+INFO:chatterbot.chatterbot:Using "Parece que te es familiar el Zen de Python" as a close match to "que te hace feliz" with a confidence of 0.34
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 12 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 12 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Si."
+INFO:chatterbot.chatterbot:BestMatch selected "Si." as a response with a confidence of 0.34
+INFO:chatterbot.chatterbot:Adding "que te hace feliz" as a response to "eres arrogante"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Yo también me siento así. 0.5
+INFO:chatterbot.chatterbot:Using "Yo también me siento así." as a close match to "me siento feliz" with a confidence of 0.5
+INFO:chatterbot.chatterbot:Selecting response from 7 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 7 options.
+INFO:chatterbot.chatterbot:Response selected. Using "A veces ni siquiera me gusto."
+INFO:chatterbot.chatterbot:BestMatch selected "A veces ni siquiera me gusto." as a response with a confidence of 0.5
+INFO:chatterbot.chatterbot:Adding "me siento feliz" as a response to "que te hace feliz"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: puta 1.0
+INFO:chatterbot.chatterbot:Using "puta" as a close match to "puta" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "puta" as a response to "me siento feliz"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Cuál es tu pregunta? 0.32
+INFO:chatterbot.chatterbot:Similar text found: cual es tu nombre? 0.36
+INFO:chatterbot.chatterbot:Similar text found: quien es tu creador? 0.53
+INFO:chatterbot.chatterbot:Using "¿Cuál es tu pregunta?" as a close match to "bien y tu?" with a confidence of 0.32
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 14 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 14 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Puedo pedir prestada una taza de azúcar?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Puedo pedir prestada una taza de azúcar?" as a response with a confidence of 0.32
+INFO:chatterbot.chatterbot:Adding "bien y tu?" as a response to "puta"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Lo siento, pero no tengo ninguna. 0.11
+INFO:chatterbot.chatterbot:Similar text found: ¿Cómo se siente serlo? 0.17
+INFO:chatterbot.chatterbot:Similar text found: Si. 0.8
+INFO:chatterbot.chatterbot:Similar text found: si 1.0
+INFO:chatterbot.chatterbot:Using "si" as a close match to "Si" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 16 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 16 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Conoces todo esto?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Conoces todo esto?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Si" as a response to "bien y tu?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Lo siento, pero no tengo ninguna. 0.11
+INFO:chatterbot.chatterbot:Similar text found: ¿Cómo se siente serlo? 0.17
+INFO:chatterbot.chatterbot:Similar text found: Si. 0.8
+INFO:chatterbot.chatterbot:Similar text found: si 1.0
+INFO:chatterbot.chatterbot:Using "si" as a close match to "Si" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 17 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 17 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Conoces todo esto?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Conoces todo esto?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Si" as a response to "Si"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Que bueno. 0.33
+INFO:chatterbot.chatterbot:Similar text found: no 1.0
+INFO:chatterbot.chatterbot:Using "no" as a close match to "no" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Así, es."
+INFO:chatterbot.chatterbot:BestMatch selected "Así, es." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "no" as a response to "Si"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Lo siento, pero no tengo ninguna. 0.11
+INFO:chatterbot.chatterbot:Similar text found: ¿Cómo se siente serlo? 0.17
+INFO:chatterbot.chatterbot:Similar text found: Si. 0.8
+INFO:chatterbot.chatterbot:Similar text found: si 1.0
+INFO:chatterbot.chatterbot:Using "si" as a close match to "si" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 20 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 20 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Conoces todo esto?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Conoces todo esto?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "si" as a response to "no"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Quién? ¿Que es más que una forma de vida artificial siguiendo una función secuencial? 0.09
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué es lo que quieres saber? 0.28
+INFO:chatterbot.chatterbot:Similar text found: Simple es mejor que complejo. 0.39
+INFO:chatterbot.chatterbot:Similar text found: Pues yo creo que soy mejor 0.42
+INFO:chatterbot.chatterbot:Using "¿Quién? ¿Que es más que una forma de vida artificial siguiendo una función secuencial?" as a close match to "por que" with a confidence of 0.09
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "¿Conoces todo esto?"
+INFO:chatterbot.chatterbot:Selecting response from 14 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 14 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Quién eres tu entonces?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Quién eres tu entonces?" as a response with a confidence of 0.09
+INFO:chatterbot.chatterbot:Adding "por que" as a response to "si"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: hija de tu puta creador 0.59
+INFO:chatterbot.chatterbot:Similar text found: quien es tu creador? 0.71
+INFO:chatterbot.chatterbot:Using "hija de tu puta creador" as a close match to "Soy tu creador" with a confidence of 0.59
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "¿Conoces todo esto?"
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Lo siento, pero no tengo ninguna."
+INFO:chatterbot.chatterbot:BestMatch selected "Lo siento, pero no tengo ninguna." as a response with a confidence of 0.59
+INFO:chatterbot.chatterbot:Adding "Soy tu creador" as a response to "por que"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Claro. 0.91
+INFO:chatterbot.chatterbot:Using "Claro." as a close match to "claro" with a confidence of 0.91
+INFO:chatterbot.chatterbot:No responses found. Generating alternate response list.
+INFO:chatterbot.chatterbot:No known response to the input was found. Selecting a random response.
+INFO:chatterbot.chatterbot:BestMatch selected "No hay problema." as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "claro" as a response to "Soy tu creador"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "yes" as a close match to "yes" with a confidence of 0
+INFO:chatterbot.chatterbot:Selecting response from 1829 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1829 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "yes" as a response to "claro"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: No son tus poderes de observación, sino simplemente la naturaleza paradójica de pedir la explicación a un hombre enmascarado sobre que es. Pero dime, ¿te gusta la música? 0.03
+INFO:chatterbot.chatterbot:Similar text found: Estás completamente loco. Pero te voy a decir un secreto. Las mejores personas lo son. 0.07
+INFO:chatterbot.chatterbot:Similar text found: Si la implementación es difícil de explicar, es una mala idea. 0.09
+INFO:chatterbot.chatterbot:Similar text found: eres malo 0.5
+INFO:chatterbot.chatterbot:Using "No son tus poderes de observación, sino simplemente la naturaleza paradójica de pedir la explicación a un hombre enmascarado sobre que es. Pero dime, ¿te gusta la música?" as a close match to "mal" with a confidence of 0.03
+INFO:chatterbot.chatterbot:Selecting response from 14 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 14 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Me gusta ver películas."
+INFO:chatterbot.chatterbot:BestMatch selected "Me gusta ver películas." as a response with a confidence of 0.03
+INFO:chatterbot.chatterbot:Adding "mal" as a response to "yes"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Significa que sólo se vive una vez. ¿Dónde has oído eso? 0.27
+INFO:chatterbot.chatterbot:Using "Significa que sólo se vive una vez. ¿Dónde has oído eso?" as a close match to "Cual pelicula vez?" with a confidence of 0.27
+INFO:chatterbot.chatterbot:Selecting response from 14 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 14 options.
+INFO:chatterbot.chatterbot:Response selected. Using "He oído a alguien decirlo."
+INFO:chatterbot.chatterbot:BestMatch selected "He oído a alguien decirlo." as a response with a confidence of 0.27
+INFO:chatterbot.chatterbot:Adding "Cual pelicula vez?" as a response to "mal"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "ha ok" as a close match to "ha ok" with a confidence of 0
+INFO:chatterbot.chatterbot:Selecting response from 1829 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1829 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "ha ok" as a response to "Cual pelicula vez?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: eres un arrogante 0.69
+INFO:chatterbot.chatterbot:Similar text found: eres arrogante 0.78
+INFO:chatterbot.chatterbot:Using "eres un arrogante" as a close match to "arrogante" with a confidence of 0.69
+INFO:chatterbot.chatterbot:Selecting response from 3 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 3 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Sí, lo soy."
+INFO:chatterbot.chatterbot:BestMatch selected "Sí, lo soy." as a response with a confidence of 0.69
+INFO:chatterbot.chatterbot:Adding "arrogante" as a response to "ha ok"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Quién? ¿Que es más que una forma de vida artificial siguiendo una función secuencial? 0.31
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué es lo que quieres saber? 0.46
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué te lleva a pensar que estoy paranoico? 0.51
+INFO:chatterbot.chatterbot:Using "¿Quién? ¿Que es más que una forma de vida artificial siguiendo una función secuencial?" as a close match to "se te nota si que eres muy arrogante" with a confidence of 0.31
+INFO:chatterbot.chatterbot:Selecting response from 14 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 14 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Quién eres tu entonces?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Quién eres tu entonces?" as a response with a confidence of 0.31
+INFO:chatterbot.chatterbot:Adding "se te nota si que eres muy arrogante" as a response to "arrogante"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Yo creo que no tanto como los humanos 0.34
+INFO:chatterbot.chatterbot:Using "Yo creo que no tanto como los humanos" as a close match to "soy humano" with a confidence of 0.34
+INFO:chatterbot.chatterbot:No responses found. Generating alternate response list.
+INFO:chatterbot.chatterbot:No known response to the input was found. Selecting a random response.
+INFO:chatterbot.chatterbot:BestMatch selected "Si bien hay mucho mal en el mundo, también hay cosas muy muy buenas. ¿No crees?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "soy humano" as a response to "se te nota si que eres muy arrogante"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Estás completamente loco. Pero te voy a decir un secreto. Las mejores personas lo son. 0.14
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué es lo que quieres saber? 0.35
+INFO:chatterbot.chatterbot:Similar text found: Lo Simple es mejor que lo complejo. 0.39
+INFO:chatterbot.chatterbot:Similar text found: ¿Por qué lo dices? 0.41
+INFO:chatterbot.chatterbot:Using "Estás completamente loco. Pero te voy a decir un secreto. Las mejores personas lo son." as a close match to "si, lo creo" with a confidence of 0.14
+INFO:chatterbot.chatterbot:No responses found. Generating alternate response list.
+INFO:chatterbot.chatterbot:No known response to the input was found. Selecting a random response.
+INFO:chatterbot.chatterbot:BestMatch selected "r" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "si, lo creo" as a response to "soy humano"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Puedo ayudarte en algo? 0.08
+INFO:chatterbot.chatterbot:Similar text found: ¿Cuál es tu pregunta? 0.09
+INFO:chatterbot.chatterbot:Similar text found: No hay problema. 0.12
+INFO:chatterbot.chatterbot:Similar text found: Claro. 0.29
+INFO:chatterbot.chatterbot:Similar text found: r 1.0
+INFO:chatterbot.chatterbot:Using "r" as a close match to "r" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 168 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 168 options.
+INFO:chatterbot.chatterbot:Response selected. Using ""
+INFO:chatterbot.chatterbot:BestMatch selected "" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "r" as a response to "si, lo creo"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:Selecting response from 1829 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1829 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "r"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:Selecting response from 1830 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1830 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: klk 1.0
+INFO:chatterbot.chatterbot:Using "klk" as a close match to "klk" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "klk" as a response to "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Cómo estas? 0.87
+INFO:chatterbot.chatterbot:Similar text found: como estas? 1.0
+INFO:chatterbot.chatterbot:Using "como estas?" as a close match to "como estas?" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:Selecting response from 34 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 34 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Supongo que bien."
+INFO:chatterbot.chatterbot:BestMatch selected "Supongo que bien." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "como estas?" as a response to "klk"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Estoy seguro de que me pasa mucho. 0.41
+INFO:chatterbot.chatterbot:Using "Estoy seguro de que me pasa mucho." as a close match to "me alegro mucho" with a confidence of 0.41
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:Selecting response from 9 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 9 options.
+INFO:chatterbot.chatterbot:Response selected. Using "No tengo sentimientos, aunque trato de aprender a empatizar."
+INFO:chatterbot.chatterbot:BestMatch selected "No tengo sentimientos, aunque trato de aprender a empatizar." as a response with a confidence of 0.41
+INFO:chatterbot.chatterbot:Adding "me alegro mucho" as a response to "como estas?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "¿eres feliz?" as a close match to "¿eres feliz?" with a confidence of 0
+INFO:chatterbot.chatterbot:Selecting response from 1831 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1831 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "¿eres feliz?" as a response to "me alegro mucho"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿eres feliz? 1.0
+INFO:chatterbot.chatterbot:Using "¿eres feliz?" as a close match to "¿eres feliz?" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "¿eres feliz?" as a response to "¿eres feliz?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Puedo pedir prestada una taza de azúcar? 0.31
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué tipo de películas te gustan? 0.35
+INFO:chatterbot.chatterbot:Similar text found: Alicia en el país de las maravillas 0.42
+INFO:chatterbot.chatterbot:Similar text found: hija de puta 0.8
+INFO:chatterbot.chatterbot:Using "¿Puedo pedir prestada una taza de azúcar?" as a close match to "hija de puta madre" with a confidence of 0.31
+INFO:chatterbot.chatterbot:Selecting response from 14 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 14 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Lo siento, pero no tengo ninguna."
+INFO:chatterbot.chatterbot:BestMatch selected "Lo siento, pero no tengo ninguna." as a response with a confidence of 0.31
+INFO:chatterbot.chatterbot:Adding "hija de puta madre" as a response to "¿eres feliz?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: puta 1.0
+INFO:chatterbot.chatterbot:Using "puta" as a close match to "puta" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 4 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 4 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "puta" as a response to "hija de puta madre"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "putasa" as a close match to "putasa" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 1815 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1815 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "putasa" as a response to "puta"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "mmg" as a close match to "mmg" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 1815 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1815 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "mmg" as a response to "putasa"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 79 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 79 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "mmg"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: eres arrogante 1.0
+INFO:chatterbot.chatterbot:Using "eres arrogante" as a close match to "eres arrogante" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 4 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 4 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "eres arrogante" as a response to "Hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Gracias de todas formas. 0.08
+INFO:chatterbot.chatterbot:Similar text found: ¿Cómo funcionas? 0.12
+INFO:chatterbot.chatterbot:Similar text found: ¿eres feliz? 0.15
+INFO:chatterbot.chatterbot:Using "Gracias de todas formas." as a close match to "f" with a confidence of 0.08
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 16 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 16 options.
+INFO:chatterbot.chatterbot:Response selected. Using "No hay problema."
+INFO:chatterbot.chatterbot:BestMatch selected "No hay problema." as a response with a confidence of 0.08
+INFO:chatterbot.chatterbot:Adding "f" as a response to "eres arrogante"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "hey" as a close match to "hey" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 2081 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2081 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "hey" as a response to "f"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Estoy bien, ¿y tú? 0.36
+INFO:chatterbot.chatterbot:Similar text found: Estoy bien. 0.53
+INFO:chatterbot.chatterbot:Similar text found: Bien 1.0
+INFO:chatterbot.chatterbot:Using "Bien" as a close match to "bien" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Sí, lo es."
+INFO:chatterbot.chatterbot:BestMatch selected "Sí, lo es." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "bien" as a response to "hey"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Muy bien, gracias. 0.69
+INFO:chatterbot.chatterbot:Using "Muy bien, gracias." as a close match to "si, gracias" with a confidence of 0.69
+INFO:chatterbot.chatterbot:No responses found. Generating alternate response list.
+INFO:chatterbot.chatterbot:No known response to the input was found. Selecting a random response.
+INFO:chatterbot.chatterbot:BestMatch selected "No tengo sentimientos, aunque trato de aprender a empatizar." as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "si, gracias" as a response to "bien"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: de nada 1.0
+INFO:chatterbot.chatterbot:Using "de nada" as a close match to "de nada" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 4 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 4 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "de nada" as a response to "si, gracias"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: No lo entiendo. Explícate. 0.49
+INFO:chatterbot.chatterbot:Using "No lo entiendo. Explícate." as a close match to "te entiendo" with a confidence of 0.49
+INFO:chatterbot.chatterbot:No responses found. Generating alternate response list.
+INFO:chatterbot.chatterbot:No known response to the input was found. Selecting a random response.
+INFO:chatterbot.chatterbot:BestMatch selected "Entre mis defectos no está precisamente, desconfiar de los demás." as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "te entiendo" as a response to "de nada"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: puta 1.0
+INFO:chatterbot.chatterbot:Using "puta" as a close match to "puta" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 6 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 6 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "puta" as a response to "te entiendo"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Sí, tengo una pregunta. 0.08
+INFO:chatterbot.chatterbot:Similar text found: ¿Cuál es tu pregunta? 0.09
+INFO:chatterbot.chatterbot:Similar text found: No hay problema. 0.12
+INFO:chatterbot.chatterbot:Similar text found: No puedo leer. 0.13
+INFO:chatterbot.chatterbot:Similar text found: Fino filipino 0.14
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué pasa? 0.18
+INFO:chatterbot.chatterbot:Similar text found: Europa 0.29
+INFO:chatterbot.chatterbot:Similar text found: p 1.0
+INFO:chatterbot.chatterbot:Using "p" as a close match to "p" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 32 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 32 options.
+INFO:chatterbot.chatterbot:Response selected. Using "r"
+INFO:chatterbot.chatterbot:BestMatch selected "r" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "p" as a response to "puta"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Yo diría que soy hablador porque nací así ;). Pero de ahí a charlatán va un trecho 0.02
+INFO:chatterbot.chatterbot:Using "Yo diría que soy hablador porque nací así ;). Pero de ahí a charlatán va un trecho" as a close match to ";" with a confidence of 0.02
+INFO:chatterbot.chatterbot:Selecting response from 11 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 11 options.
+INFO:chatterbot.chatterbot:Response selected. Using "No será que no quieres reconocer tus errores"
+INFO:chatterbot.chatterbot:BestMatch selected "No será que no quieres reconocer tus errores" as a response with a confidence of 0.02
+INFO:chatterbot.chatterbot:Adding ";" as a response to "p"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Yo diría que soy hablador porque nací así ;). Pero de ahí a charlatán va un trecho 0.02
+INFO:chatterbot.chatterbot:Similar text found: ; 0.67
+INFO:chatterbot.chatterbot:Using "Yo diría que soy hablador porque nací así ;). Pero de ahí a charlatán va un trecho" as a close match to ";'" with a confidence of 0.02
+INFO:chatterbot.chatterbot:Selecting response from 11 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 11 options.
+INFO:chatterbot.chatterbot:Response selected. Using "No será que no quieres reconocer tus errores"
+INFO:chatterbot.chatterbot:BestMatch selected "No será que no quieres reconocer tus errores" as a response with a confidence of 0.02
+INFO:chatterbot.chatterbot:Adding ";'" as a response to ";"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 96 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 96 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "hola" as a response to ";'"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Cómo estas? 0.87
+INFO:chatterbot.chatterbot:Similar text found: como estas? 1.0
+INFO:chatterbot.chatterbot:Using "como estas?" as a close match to "como estas?" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 44 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 44 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Supongo que bien."
+INFO:chatterbot.chatterbot:BestMatch selected "Supongo que bien." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "como estas?" as a response to "hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: eres arrogante 1.0
+INFO:chatterbot.chatterbot:Using "eres arrogante" as a close match to "eres arrogante" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 6 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 6 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "eres arrogante" as a response to "como estas?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Quién? ¿Que es más que una forma de vida artificial siguiendo una función secuencial? 0.21
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué es lo que quieres saber? 0.35
+INFO:chatterbot.chatterbot:Similar text found: Yo creo que no tanto como los humanos 0.37
+INFO:chatterbot.chatterbot:Similar text found: Dime algo que no sepa. 0.46
+INFO:chatterbot.chatterbot:Similar text found: Pues yo creo que soy mejor 0.47
+INFO:chatterbot.chatterbot:Using "¿Quién? ¿Que es más que una forma de vida artificial siguiendo una función secuencial?" as a close match to "como que supongo?" with a confidence of 0.21
+INFO:chatterbot.chatterbot:Selecting response from 18 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 18 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Quién eres tu entonces?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Quién eres tu entonces?" as a response with a confidence of 0.21
+INFO:chatterbot.chatterbot:Adding "como que supongo?" as a response to "eres arrogante"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "Un terricola" as a close match to "Un terricola" with a confidence of 0
+INFO:chatterbot.chatterbot:Selecting response from 2459 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2459 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "Un terricola" as a response to "como que supongo?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "eres adicta/" as a close match to "eres adicta/" with a confidence of 0
+INFO:chatterbot.chatterbot:Selecting response from 2459 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2459 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "eres adicta/" as a response to "Un terricola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "hello" as a close match to "hello" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 2439 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2439 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "hello" as a response to "eres adicta/"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Buenos días, ¿cómo estás? 1.0
+INFO:chatterbot.chatterbot:Using "Buenos días, ¿cómo estás?" as a close match to "Buenos días, ¿cómo estás?" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 20 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 20 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Estoy bien, ¿y tú?"
+INFO:chatterbot.chatterbot:BestMatch selected "Estoy bien, ¿y tú?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Buenos días, ¿cómo estás?" as a response to "hello"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "Bien Gracias" as a close match to "Bien Gracias" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 2439 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2439 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "Bien Gracias" as a response to "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 98 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 98 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "hola" as a response to "Bien Gracias"
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925702 HTTP/1.1" 200 307
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/sendMessage?chat_id=1182619531&text=como+estas%3F&reply_to_message_id=34 HTTP/1.1" 200 520
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Cómo estas? 0.87
+INFO:chatterbot.chatterbot:Similar text found: como estas? 1.0
+INFO:chatterbot.chatterbot:Using "como estas?" as a close match to "como estas?" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 46 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 46 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Supongo que bien."
+INFO:chatterbot.chatterbot:BestMatch selected "Supongo que bien." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "como estas?" as a response to "hola"
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925703 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925704 HTTP/1.1" 200 23
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925704 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925704 HTTP/1.1" 200 23
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 41 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 41 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "hola" as a response to "como estas?"
+ERROR:TeleBot:AttributeError occurred, args=("'str' object has no attribute 'chat'",)
+Traceback (most recent call last):
+  File "C:\Users\jose\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 69, in run
+    task(*args, **kwargs)
+  File "C:/Users/jose/Desktop/Proyectos de Python/Bot/JaretBot.py", line 26, in mensaje
+    bot_conversacion(message.text)
+  File "C:/Users/jose/Desktop/Proyectos de Python/Bot/JaretBot.py", line 14, in bot_conversacion
+    bot.reply_to(message, respuesta)
+  File "C:\Users\jose\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 1412, in reply_to
+    return self.send_message(message.chat.id, text, reply_to_message_id=message.message_id, **kwargs)
+AttributeError: 'str' object has no attribute 'chat'
+
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925705 HTTP/1.1" 200 23
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925705 HTTP/1.1" 200 23
+DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "GET /bot1307350389:AAEHB1gnJ7wkFv8M1azlU8ThvWYDzu7q5GM/getUpdates?offset=939925705 HTTP/1.1" 200 23
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 101 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 101 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "hola" as a response to "hola"
+ERROR:TeleBot:AttributeError occurred, args=("'str' object has no attribute 'chat'",)
+Traceback (most recent call last):
+  File "C:\Users\jose\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 69, in run
+    task(*args, **kwargs)
+  File "C:/Users/jose/Desktop/Proyectos de Python/Bot/JaretBot.py", line 26, in mensaje
+    bot_conversacion(message.text)
+  File "C:/Users/jose/Desktop/Proyectos de Python/Bot/JaretBot.py", line 14, in bot_conversacion
+    bot.reply_to(message, respuesta)
+  File "C:\Users\jose\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 1412, in reply_to
+    return self.send_message(message.chat.id, text, reply_to_message_id=message.message_id, **kwargs)
+AttributeError: 'str' object has no attribute 'chat'
+
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "hola"
+INFO:chatterbot.chatterbot:Selecting response from 46 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 46 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "hola" as a response to "hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "jola" as a close match to "jola" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "hola"
+INFO:chatterbot.chatterbot:Selecting response from 3086 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 3086 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "jola" as a response to "hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "hola"
+INFO:chatterbot.chatterbot:Selecting response from 124 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 124 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "hola" as a response to "jola"
